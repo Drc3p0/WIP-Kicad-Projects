@@ -1,0 +1,14 @@
+2024-08-25 22:19:50,602 - panelizer_logger - INFO - Running Panelizer
+2024-08-25 22:19:50,608 - panelizer_logger - INFO - ['--panelx', '100.000000', '--panely', '100.000000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000']
+2024-08-25 22:19:50,613 - panelizer_logger - INFO - PANELIZER START: 2024-08-25T22:19:50.613927
+2024-08-25 22:19:53,254 - panelizer_logger - WARNING - 
+START: 2024-08-25T22:19:50.613541
+Board saved by user.
+
+Board: /Users/DRC/Documents/KiCad/SAOdumpsterfire/SAOdumpsterfire/Production/SAOdumpsterfire_panelized.kicad_pcb
+Board dimensions: 40.94 x 51.90 mm.
+You can fit 2 x 1 boards on the panel.
+Warning: panel is under 70x70mm. It may be too small to v-score.
+Warning: Ordering Instructions contains default values.
+
+2024-08-25 22:19:56,125 - panelizer_logger - INFO - Panelizer complete

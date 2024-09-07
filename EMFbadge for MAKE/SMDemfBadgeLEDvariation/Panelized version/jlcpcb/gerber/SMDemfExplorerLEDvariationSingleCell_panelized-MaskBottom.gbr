@@ -1,0 +1,34 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-08-24T22:44:35-07:00*%
+%TF.ProjectId,SMDemfExplorerLEDvariationSingleCell_panelized,534d4465-6d66-4457-9870-6c6f7265724c,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-24 22:44:35*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.700000*%
+%ADD11C,2.235200*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J2*%
+X163125480Y-8506088D03*
+X170125482Y-8506087D03*
+%TD*%
+D11*
+%TO.C,BT2*%
+X162603298Y-15990466D03*
+%TD*%
+%TO.C,BT2*%
+X162603298Y-53616403D03*
+%TD*%
+D10*
+%TO.C,J2*%
+X163125480Y-46132025D03*
+X170125482Y-46132024D03*
+%TD*%
+M02*

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "CMOSworkshop-rescue")(type "Legacy")(uri "${KIPRJMOD}/CMOSworkshop-rescue.lib")(options "")(descr ""))
+)

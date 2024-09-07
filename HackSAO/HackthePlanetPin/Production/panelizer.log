@@ -1,0 +1,13 @@
+2024-08-25 23:19:46,101 - panelizer_logger - INFO - Running Panelizer
+2024-08-25 23:19:46,109 - panelizer_logger - INFO - ['--panelx', '100.000000', '--panely', '100.000000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000']
+2024-08-25 23:19:46,113 - panelizer_logger - INFO - PANELIZER START: 2024-08-25T23:19:46.113179
+2024-08-25 23:19:47,742 - panelizer_logger - WARNING - 
+START: 2024-08-25T23:19:46.113163
+Board saved by user.
+
+Board: /Users/DRC/Documents/KiCad/HackSAO/HackthePlanetPin/Production/HackthePlanetPin_panelized.kicad_pcb
+Board dimensions: 36.86 x 36.07 mm.
+You can fit 2 x 2 boards on the panel.
+Warning: Ordering Instructions contains default values.
+
+2024-08-25 23:19:49,954 - panelizer_logger - INFO - Panelizer complete
