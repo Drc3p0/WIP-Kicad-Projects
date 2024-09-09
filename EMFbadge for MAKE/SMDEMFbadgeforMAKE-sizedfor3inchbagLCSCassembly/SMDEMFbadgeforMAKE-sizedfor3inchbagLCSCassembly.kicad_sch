@@ -3272,7 +3272,7 @@
 				)
 			)
 		)
-		(property "Value" "NJM2115D"
+		(property "Value" "MCP6002-E/P"
 			(at 135.89 88.9 0)
 			(effects
 				(font
@@ -3592,7 +3592,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100mH"
+		(property "Value" "10mH"
 			(at 105.41 86.36 90)
 			(effects
 				(font
@@ -3885,7 +3885,7 @@
 				)
 			)
 		)
-		(property "Value" "NJM2115D"
+		(property "Value" "MCP6002-E/P"
 			(at 135.89 66.04 0)
 			(effects
 				(font
@@ -4111,7 +4111,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "1uF"
 			(at 160.02 71.12 0)
 			(effects
 				(font
@@ -4432,7 +4432,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100mH"
+		(property "Value" "10mH"
 			(at 106.68 63.5 90)
 			(effects
 				(font
@@ -4607,7 +4607,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NJM2115D"
+		(property "Value" "MCP6002-E/P"
 			(at 195.58 80.01 0)
 			(effects
 				(font
@@ -5359,7 +5359,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "1uF"
 			(at 160.02 95.25 0)
 			(effects
 				(font
