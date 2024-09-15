@@ -1,4 +1,4 @@
-24028060995104492
+24034965431283081
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -15,6 +15,13 @@ audio belton reverb
 7
 Battery
 AAA battery SMD
+
+1020 
+0
+2
+2
+Battery
+AAA battery SMD LCSC
 
 1020 
 0
@@ -1226,6 +1233,13 @@ SMD DIP Switch SPST Slide 8.61mm 338mil SMD
 24
 Button_Switch_SMD
 SW_DPDT_CK_JS202011JCQN
+Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
+switch DPDT SMT
+0
+6
+6
+Button_Switch_SMD
+SW_DPDT_LCSC
 Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
 switch DPDT SMT
 0
@@ -6817,6 +6831,13 @@ smt female jack horizontal
 0
 4
 4
+Connector_Audio
+Jack_3.5mm_LCSC
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+3
+3
 Connector_Audio
 Jack_3.5mm_Ledino_KB3SPRS_Horizontal
 https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
@@ -66240,6 +66261,13 @@ mounting hole 8.4mm m8
 0
 9
 1
+MountingHole
+Tooling Hole LCSC
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMRA-D3.3mm_L7mm_7466300R_Horizontal
 Right-angle SMD mounting hardware, inside through hole 3.3mm, lenght 7mm, total height 5mm, Würth electronics 7466300R (https://www.we-online.com/components/products/datasheet/7466300R.pdf)

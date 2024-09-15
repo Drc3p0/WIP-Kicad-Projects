@@ -2779,7 +2779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 202.692 83.82 90)
 			(effects
 				(font
@@ -2797,7 +2797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 204.47 83.82 0)
 			(effects
 				(font
@@ -2817,6 +2817,15 @@
 		)
 		(property "Sim.Pins" "1=+ 2=-"
 			(at 204.47 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C176450"
+			(at 0 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,7 +2879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 135.89 74.168 90)
 			(effects
 				(font
@@ -2888,8 +2897,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 135.89 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C172965"
+			(at 208.28 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3086,7 +3104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.54mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 153.67 65.0748 0)
 			(effects
 				(font
@@ -3104,7 +3122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 149.86 66.04 0)
 			(effects
 				(font
@@ -3124,6 +3142,15 @@
 		)
 		(property "Sim.Pins" "1=+ 2=-"
 			(at 149.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C160645"
+			(at 215.9 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3177,7 +3204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 135.89 78.74 0)
 			(effects
 				(font
@@ -3195,8 +3222,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 135.89 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2896122"
+			(at 214.63 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,7 +3272,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP6002-E/P"
+		(property "Value" "MCP6002"
 			(at 135.89 88.9 0)
 			(effects
 				(font
@@ -3263,7 +3299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
 			(at 135.89 88.9 0)
 			(effects
 				(font
@@ -3301,6 +3337,15 @@
 		)
 		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5"
 			(at 135.89 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C640393"
+			(at 0 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3372,7 +3417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 135.89 99.568 90)
 			(effects
 				(font
@@ -3390,8 +3435,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 135.89 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C172965"
+			(at 233.68 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3445,7 +3499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 114.3 93.218 90)
 			(effects
 				(font
@@ -3463,7 +3517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 114.3 91.44 0)
 			(effects
 				(font
@@ -3483,6 +3537,15 @@
 		)
 		(property "Sim.Pins" "1=+ 2=-"
 			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C176450"
+			(at 205.74 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3556,8 +3619,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Inductor"
 			(at 102.87 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "NONE"
+			(at 194.31 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3754,7 +3826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 135.89 105.41 0)
 			(effects
 				(font
@@ -3772,8 +3844,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 135.89 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2896122"
+			(at 241.3 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3813,7 +3894,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP6002-E/P"
+		(property "Value" "MCP6002"
 			(at 135.89 66.04 0)
 			(effects
 				(font
@@ -3840,7 +3921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
 			(at 135.89 66.04 0)
 			(effects
 				(font
@@ -3878,6 +3959,15 @@
 		)
 		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5"
 			(at 135.89 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C640393"
+			(at 0 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3968,8 +4058,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Switch, dual pole double throw, separate symbols"
 			(at 231.14 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C273399"
+			(at 462.28 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4047,7 +4146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 156.21 68.58 0)
 			(effects
 				(font
@@ -4067,6 +4166,15 @@
 		)
 		(property "Sim.Pins" "1=+ 2=-"
 			(at 156.21 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C531341"
+			(at 312.42 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4282,8 +4390,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve, Switched Pole (Normalling)"
 			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4992449"
+			(at 355.6 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4360,8 +4477,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Inductor"
 			(at 102.87 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "NONE "
+			(at 171.45 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4415,7 +4541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.54mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 153.67 87.9348 0)
 			(effects
 				(font
@@ -4433,7 +4559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 149.86 88.9 0)
 			(effects
 				(font
@@ -4453,6 +4579,15 @@
 		)
 		(property "Sim.Pins" "1=+ 2=-"
 			(at 149.86 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C160645"
+			(at 238.76 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4499,7 +4634,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP6002-E/P"
+		(property "Value" "MCP6002"
 			(at 195.58 80.01 0)
 			(effects
 				(font
@@ -4526,7 +4661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
 			(at 195.58 77.47 0)
 			(effects
 				(font
@@ -4564,6 +4699,15 @@
 		)
 		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5"
 			(at 195.58 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C640393"
+			(at 391.16 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,7 +4779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 114.3 70.358 90)
 			(effects
 				(font
@@ -4653,8 +4797,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 114.3 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C176450"
+			(at 182.88 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,8 +4950,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 204.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "NONE"
+			(at 129.54 -129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4873,8 +5035,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Single-cell battery"
 			(at 222.25 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C5290189"
+			(at 444.5 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4941,8 +5112,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Switch, dual pole double throw, separate symbols"
 			(at 213.36 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C273399"
+			(at 426.72 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5232,7 +5412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 156.21 92.71 0)
 			(effects
 				(font
@@ -5252,6 +5432,15 @@
 		)
 		(property "Sim.Pins" "1=+ 2=-"
 			(at 156.21 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" " C531341"
+			(at 312.42 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

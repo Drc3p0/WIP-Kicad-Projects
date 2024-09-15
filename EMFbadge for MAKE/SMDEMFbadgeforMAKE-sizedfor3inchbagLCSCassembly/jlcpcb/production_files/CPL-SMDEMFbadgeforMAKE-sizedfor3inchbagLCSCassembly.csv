@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+AAA_BATT1,AAA_BATT1,AAA battery SMD LCSC,220.4625,-115.355,270.0,bottom
+AAA_BATT2,AAA_BATT2,AAA battery SMD LCSC,188.157499,-115.4783,90.0,bottom
+C1,4.7u,CP_Elec_4x3,196.535,-96.14,0.0,bottom
+C2,4.7u,CP_Elec_4x3,211.410001,-95.177501,180.0,bottom
+C3,1uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,196.76,-88.315,60.0,bottom
+C4,1uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,205.76,-90.115,145.0,bottom
+C5,10pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,213.31,-100.6025,90.0,bottom
+C6,10pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,198.534996,-102.038743,90.0,bottom
+D1,LED,LED_RGB_Everlight_EASV3015RGBA0_Horizontal,204.574998,-102.889998,0.0,bottom
+I1,10mH,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,213.36,-149.24,240.0,bottom
+I2,10mH,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,194.835,-148.99,305.0,bottom
+J1,AudioJack2_Ground_Switch,Jack_3.5mm_LCSC,200.190179,-82.316731,330.0,bottom
+R1,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,194.385,-122.265,90.0,bottom
+R2,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,214.085,-120.665,90.0,bottom
+R3,100K,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,195.635,-102.101243,90.0,bottom
+R4,100K,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,209.81,-100.1775,90.0,bottom
+R5,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,210.61,-108.665,90.0,bottom
+SW1,SW_DPDT_x2,SW_DPDT_LCSC,211.640292,-80.936061,210.0,bottom
+U1,MCP6002-E/P,SOIC-8_3.9x4.9mm_P1.27mm,203.835,-97.29,90.0,bottom

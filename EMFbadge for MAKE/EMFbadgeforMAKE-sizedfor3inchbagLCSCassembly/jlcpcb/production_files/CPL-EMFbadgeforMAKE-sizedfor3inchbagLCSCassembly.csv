@@ -1,14 +1,14 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-AAA_Battery1,Spring_side->,BatteryHolder_Keystone_2466_1xAAA,139.890003,-112.020003,90.0,bottom
 AAA_Battery1,Spring_side->,BatteryHolder_Keystone_2466_1xAAA,184.03,-111.31,270.0,bottom
-C1,4.7u,CP_Radial_D5.0mm_P2.00mm,149.73324,-97.396541,90.0,bottom
-C2,4.7u,CP_Radial_D5.0mm_P2.00mm,162.086193,-81.262163,335.0,bottom
-C3,10uF,C_Disc_D4.3mm_W1.9mm_P5.00mm,151.489772,-91.405181,330.0,bottom
-C4,10uF,C_Disc_D4.3mm_W1.9mm_P5.00mm,158.335,-87.46,150.0,bottom
-C5,68pF,C_Disc_D4.3mm_W1.9mm_P5.00mm,175.125036,-92.065067,270.0,bottom
-C6,68pF,C_Disc_D4.3mm_W1.9mm_P5.00mm,161.74128,-91.687682,270.0,bottom
-I1,100mH,Inductor_D5.0mm_Horizontal_O3.81mm_Z9.0mm,173.899898,-141.068059,330.0,bottom
-I2,100mH,Inductor_D5.0mm_Horizontal_O3.81mm_Z9.0mm,149.882057,-141.02,30.0,bottom
+AAA_Battery2,<-Spring_side,BatteryHolder_Keystone_2466_1xAAA,139.859999,-111.715,90.0,bottom
+C1,4.7u,CP_Radial_D4.0mm_P2.00mm,149.73324,-97.396541,90.0,bottom
+C2,4.7u,CP_Radial_D4.0mm_P2.00mm,162.053301,-81.295055,335.0,bottom
+C3,1uF,C_Disc_D4.3mm_W1.9mm_P5.00mm,151.489772,-91.405181,330.0,bottom
+C4,1uF,C_Disc_D4.3mm_W1.9mm_P5.00mm,158.335,-87.46,150.0,bottom
+C5,10pF,C_Disc_D4.3mm_W1.9mm_P5.00mm,175.125036,-92.065067,270.0,bottom
+C6,10pF,C_Disc_D4.3mm_W1.9mm_P5.00mm,161.74128,-91.687682,270.0,bottom
+I1,10mH,Inductor_D5.0mm_Horizontal_O3.81mm_Z9.0mm,173.899898,-141.068059,330.0,bottom
+I2,10mH,Inductor_D5.0mm_Horizontal_O3.81mm_Z9.0mm,149.882057,-141.02,30.0,bottom
 J1,AudioJack2_Ground_Switch,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,152.165127,-82.72157,150.0,bottom
 R1,100,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,149.048751,-120.557354,90.0,bottom
 R2,100,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,175.053918,-121.748176,90.0,bottom
@@ -16,4 +16,4 @@ R3,100K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,149.135,-106.93,90.0,b
 R4,100K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,174.975,-108.49,90.0,bottom
 R5,100,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,169.60596,-102.300047,90.0,bottom
 SW1,SW_DPDT_x2,DPDT slide switch,173.656667,-80.315,210.0,bottom
-U1,NJM2115D,DIP-8_W7.62mm,168.244452,-89.546797,180.0,bottom
+U1,MCP6002,DIP-8_W7.62mm,168.244452,-89.546797,180.0,bottom
