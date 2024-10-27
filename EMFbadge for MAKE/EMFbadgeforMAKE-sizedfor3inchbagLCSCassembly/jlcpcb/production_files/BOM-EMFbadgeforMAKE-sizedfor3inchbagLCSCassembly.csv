@@ -2,10 +2,10 @@ Comment,Designator,Footprint,LCSC
 100K,"R3,R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C172965
 100,"R1,R2,R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C176450
 10pF,"C5,C6",C_Disc_D4.3mm_W1.9mm_P5.00mm,C2178655
+MCP6002,U1,DIP-8_W7.62mm,C36533685
 AudioJack2_Ground_Switch,J1,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,C381121
 10mH,"I1,I2",Inductor_D5.0mm_Horizontal_O3.81mm_Z9.0mm,C400309
 4.7u,"C1,C2",CP_Radial_D4.0mm_P2.00mm,C44582
 Spring_side->,"AAA_Battery1,AAA_Battery2",BatteryHolder_Keystone_2466_1xAAA,C5290189
 1uF,"C3,C4",C_Disc_D4.3mm_W1.9mm_P5.00mm,C5632429
 SW_DPDT_x2,SW1,DPDT slide switch,C609826
-MCP6002,U1,DIP-8_W7.62mm,C640393
